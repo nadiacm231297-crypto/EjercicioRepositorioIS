@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<sales>
+  <month>
+    <name>Enero</name>
+    <value>120</value>
+  </month>
+  <month>
+    <name>Febrero</name>
+    <value>150</value>
+  </month>
+  <month>
+    <name>Marzo</name>
+    <value>90</value>
+  </month>
+  <month>
+    <name>Abril</name>
+    <value>180</value>
+  </month>
+  <month>
+    <name>Mayo</name>
+    <value>130</value>
+  </month>
+</sales>
+
